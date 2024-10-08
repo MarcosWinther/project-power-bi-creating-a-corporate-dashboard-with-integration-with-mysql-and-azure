@@ -95,12 +95,6 @@ Se você deseja colaborar, suas ideias são mais que bem-vindas! Contribua adici
 
 <br>
 
-## 📜 **Licença**
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE), permitindo que você utilize, modifique e distribua livremente!
-
-<br>
-
 ## 👨‍💻 Expert
 
 <p>
